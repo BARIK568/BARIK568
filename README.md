@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <a href=" https://discord.com/users/825462155716984913" target="_blank">
+  <a href="https://discord.gg/Vr4e8PvJ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@barikplays.9" target="_blank">
